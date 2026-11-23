@@ -1,0 +1,8 @@
+# Raw FMA data (too large for GitHub; download from https://github.com/mdeff/fma)
+Data_Cleaning/fma_small/
+Data_Cleaning/fma_metadata/
+
+# System / editor files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
