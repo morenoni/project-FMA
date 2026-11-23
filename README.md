@@ -1,6 +1,6 @@
 # project-FMA
 
-Music genre classification (Rock, Folk, Pop, Electronic) on the Free Music Archive (FMA) dataset, comparing classifiers built on hand-crafted audio features with a fine-tuned pretrained audio model. See [`Deliverables/project_proposal.md`](Deliverables/project_proposal.md) for the full research question and methods.
+Music genre classification (Rock, Folk, Pop, Electronic) on the Free Music Archive (FMA) dataset, comparing classifiers built on hand-crafted audio features with a fine-tuned pretrained audio model.
 
 ## Repository structure
 
